@@ -20,10 +20,10 @@ kevin_score = 0
 stuart_score = 0
 word_length = 1
 flag1 = 1
-while flag1:
-    if
-        flag2 = 1
-    while flag2:
+# while flag1:
+#     if
+#         flag2 = 1
+#     while flag2:
 
 # for i in word:
 #     print(i)
